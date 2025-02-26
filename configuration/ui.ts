@@ -1,4 +1,5 @@
-import { AI_NAME, OWNER_NAME } from "@/configuration/identity";
+imexport const CHAT_HEADER = "Hello, I'm [AI NAME], [OWNER NAME]’s AI assistant.";
+export const FOOTER_MESSAGE = "Powered by myAI.";
 
 export const CHAT_HEADER: string = `[CHAT HEADER]`;
 export const MESSAGE_PLACEHOLDER: string = `[MESSAGE PLACEHOLDER]`;
