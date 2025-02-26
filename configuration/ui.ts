@@ -1,4 +1,4 @@
-imexport const CHAT_HEADER = "Hello, I'm [AI NAME], [OWNER NAME]’s AI assistant.";
+imexport const CHAT_HEADER = "Hello, I'm [Maria], [Mary Hulbert]’s AI assistant.";
 export const FOOTER_MESSAGE = "Powered by myAI.";
 
 export const CHAT_HEADER: string = `[CHAT HEADER]`;
